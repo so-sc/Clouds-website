@@ -38,7 +38,7 @@ function Core() {
         <Profile
           img="Profile/skanda.jpg"
           role="Treasurer"
-          name="Skanda"
+          name="Skanda Ganesh P V"
           socials="https://www.linkedin.com/in/skanda-ganesh/"
         />
         <Profile
